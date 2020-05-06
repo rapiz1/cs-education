@@ -1,6 +1,4 @@
-A summary of CS-Courses I'm taking now, or in the near future.
-
-Hopefully I can finish all these courses!
+A TODO list of courses
 
 ---
 

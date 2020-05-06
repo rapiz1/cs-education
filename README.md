@@ -144,3 +144,7 @@ Features:
 Bonus:
 
 - Compilers: Principles, Techniques, and Tools, 2e
+
+---
+
+### [MIT_6.031_sp18: Software Construction](http://web.mit.edu/6.031/www/sp18/)

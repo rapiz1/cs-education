@@ -2,6 +2,39 @@ A TODO list of courses
 
 ---
 
+## [CMU Curriculum](https://www.cs.cmu.edu/bs-in-artificial-intelligence/curriculum)
+
+### Math
+
+#### Modern Regression
+
+[Course page](http://www.stat.cmu.edu/~larry/=stat401/)
+[Syllabus](http://www.stat.cmu.edu/~larry/=stat401/syllabus.pdf)
+
+Provides:
+* Lecture Note
+
+#### 15-151 Mathematical Foundations for Computer Science
+
+[Course page](http://www.math.cmu.edu/~jmackey/151_128/welcome.html)
+
+*No material provided*
+
+### CS Core
+#### CS 15-122: Principles of Imperative Computation 
+[Course page](https://www.cs.cmu.edu/~15122/home.shtml)
+
+Provides:
+* [Lecture](https://www.cs.cmu.edu/~15122/schedule.shtml)
+
+#### 15-150: Functional Programming,
+
+[Course page](http://www.cs.cmu.edu/~15150/)
+
+Provies:
+* Lecture
+---
+
 ### [CS-61A - SICP @ Berkeley](https://cs61a.org/)
 
 **Category: CS Intro**

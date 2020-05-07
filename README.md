@@ -1,6 +1,11 @@
 Courses and some other useful resources to teach oneself a university degree in CS, for those who are unable to receive good enough education as they desire.
 
 ---
+
+[Scott Young taught himself a degree using MIT online resource](https://www.youtube.com/watch?v=piSLobJfZ3c)
+
+---
+
 ## [MIT Graduate Subjects](https://www.eecs.mit.edu/grad-areas/2-ai/subjects.html)
 
 [How MIT educate their student(Chinese)](https://www.ituring.com.cn/article/508248)

@@ -1,8 +1,14 @@
-A TODO list of courses
+Courses and some other useful resources to teach oneself a university degree in CS, for those who are unable to receive good enough education as they desire.
 
 ---
-
+## [MIT Graduate Subjects](https://www.eecs.mit.edu/grad-areas/2-ai/subjects.html)
+[How MIT educate their student(Chinese)](https://www.ituring.com.cn/article/508248)
+[MIT CS Roadmap](https://www.eecs.mit.edu/docs/ug/freshman_roadmaps.pdf)
+[MIT OpenCourseWare](https://ocw.mit.edu/index.htm)
 ## [CMU Curriculum](https://www.cs.cmu.edu/bs-in-artificial-intelligence/curriculum)
+*[Youtube Search for course videos](https://www.youtube.com/results?search_query=cmu&sp=EgIQAw%253D%253*
+
+*Also VARIOUS course video on panopto*
 
 ### Math
 
@@ -93,7 +99,6 @@ Features:
 Bonus:
 
 - xv6 Document
-
 
 ---
 

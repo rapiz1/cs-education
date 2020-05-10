@@ -3,7 +3,9 @@ Courses and some other useful resources to teach oneself a university degree in 
 ---
 
 [Scott Young taught himself a degree using MIT online resource - TEDx](https://www.youtube.com/watch?v=piSLobJfZ3c)
+
 [How do MIT student feel about this? - Quora](https://www.quora.com/How-do-MIT-students-and-professors-feel-about-Scott-Youngs-MIT-Challenge)
+
 ---
 
 ## [MIT Graduate Subjects](https://www.eecs.mit.edu/grad-areas/2-ai/subjects.html)

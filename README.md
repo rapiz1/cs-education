@@ -51,6 +51,8 @@ Provies:
 * Lecture
 ---
 
+## Programming
+
 ### [CS-61A - SICP @ Berkeley](https://cs61a.org/)
 
 **Category: CS Intro**
@@ -72,6 +74,8 @@ Bonus:
 - Extra Lectures
 ---
 
+## System
+
 ### [15-213 (18-213) - Introduction To Computer Systems @ CMU](http://www.cs.cmu.edu/~213/)
 
 **Category: Core CS**
@@ -90,6 +94,12 @@ Bonus:
 - Textbook: CS:APP, 3e
 - Great Recitations
 ---
+## OS
+
+### Comparsion
+
+[In Chinese](https://www.1point3acres.com/bbs/thread-138387-1-1.html)
+
 ### [6.828 - Operating Systems Engineering @ MIT](https://pdos.csail.mit.edu/6.828/2019/index.html)
 
 **Category: Core CS**
@@ -110,7 +120,19 @@ Bonus:
 
 - xv6 Document
 
+### NJU OS
+
+Maybe the best OS course in China
+
+Available at Bilibili
+
+### UCB CS 162
+
+Recommended by TeachYourselfCS
+
 ---
+
+## Network
 
 ### [CS-144 - Introduction to Computer Networking @ Stanford](https://cs144.github.io/)
 

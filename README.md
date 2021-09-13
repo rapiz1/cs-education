@@ -75,7 +75,7 @@ Bonus:
 - Textbook: SICP in Python
 - Extra Lectures
 
-## [CS-61C @ Berkeley](https://inst.eecs.berkeley.edu/~cs61c/su20/)
+### [CS-61C @ Berkeley](https://inst.eecs.berkeley.edu/~cs61c/su20/)
 
 **Category: *Computer Organization and Design***
 
